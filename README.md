@@ -1,4 +1,6 @@
-# hot-module
+# Hot Module Replacement
+
+Hot module replacement is incredibly cool. Yes, it will automatically refresh the page each time you change a component; however, what's particularly neat is that the state for all components will remain unchanged. Think of it like "Live Reload" for every single component in your application.
 
 > A Vue.js project
 
